@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rautranjit
-- 👀 I’m interested in ... Researching
-- 🌱 I’m currently learning ... Human Learning
+- 👀 I’m interested in ... Science & Technology 
+- 🌱 I’m currently learning ... Science, Maths, and Computer Science
 - 💞️ I’m looking to collaborate on ... AI/ML/DL/Web
 - 📫 How to reach me ... helloranjitraut@gmail.com
 
