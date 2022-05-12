@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Science & Technology 
 - 🌱 I’m currently learning ... Science, Maths, and Computer Science
 - 💞️ I’m looking to collaborate on ... AI/ML/DL/Web
-- 📫 How to reach me ... helloranjitraut@gmail.com
+- 📫 How to reach me ... theranjitraut@gmail.com
 
 <!---
 rautranjit/rautranjit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
